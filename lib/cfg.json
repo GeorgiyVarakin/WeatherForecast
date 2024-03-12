@@ -1,0 +1,5 @@
+{
+  "cities": ["Nizhniy_Novgorod", "Saint_Petersburg", "Moscow", "Omsk", "Tomsk", "San_Francisco", "Kazan", "Madrid", "Paris"],
+  "frequency": 150,
+  "daysCount": 3
+}
